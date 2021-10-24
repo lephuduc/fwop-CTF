@@ -117,6 +117,8 @@ s.add(flag[42]+flag[58]+flag[57]== 326)
 s.add(flag[59]+flag[10]+flag[12]== 331)
 s.add(flag[18] == 110)
 ````
+À các bạn dùng ```Ctrl+H``` để chỉnh sửa code cho nhanh nhé, tại đặt tên biến cũng dễ nên không sợ bị trùng:V
+
 Kết thúc add thành công , mình thêm vào vài dòng check() và module cho chương trình ()
 
 ```py
