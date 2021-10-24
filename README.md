@@ -25,8 +25,11 @@ Giải hệ phương trình bật 1 60 biến và submit thôi:))))))
 Có một thời gian mình tìm hiểu python thì mình biết được trong python có hỗ trợ một module tên là [z3](https://flagbot.ch/lesson5.pdf) chuyên dùng để giải mấy cái này, ay za vừa tìm hiểu xong thì gặp ngay bài lày:)) 
 
 Đầu tiên ta cần import module z3
-```bash import z3```
 
-Note: nhập ```bash pip install z3``` nếu như có lỗi "no module name z3"
+```py 
+import z3
+```
 
-Về ```bash z3``` ta cần tạo một chuỗi rác có ```len``` bằng đúng độ dà chuỗi cần tính , trong trường hợp này là 60
+Note: nhập ``` pip install z3``` nếu như có lỗi "no module name z3"
+
+Về ```z3``` ta cần tạo một chuỗi rác có ```len``` bằng đúng độ dà chuỗi cần tính , trong trường hợp này là 60
