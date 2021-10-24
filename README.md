@@ -119,7 +119,7 @@ s.add(flag[18] == 110)
 ````
 À các bạn dùng ```Ctrl+H``` để chỉnh sửa code cho nhanh nhé, tại đặt tên biến cũng dễ nên không sợ bị trùng:V
 
-Kết thúc add thành công , mình thêm vào vài dòng ```check()``` và ```model()``` cho chương trình ()
+Kết thúc add thành công , anh thêm vào vài dòng ```check()``` và ```model()``` cho chương trình ()
 
 ```py
 s.check()
@@ -135,8 +135,8 @@ yeeeeee thành công rồi, giờ mình cần sắp xếp lại các thứ tự
 
 Khoan, dừng khoảng chừng là 2 giây
 
-Mình nhận ra đây không phải kiểu dữ liệu list sau khi ```print(type(m))``` thì kết quả là ```<class 'z3.z3.ModelRef'>```
-, mình thử ép kiểu ```list```  các thứ nhưng sau đó sẽ bị mất dữ liệu ```int ``` 
+Anh và Mình nhận ra đây không phải kiểu dữ liệu list sau khi ```print(type(m))``` thì kết quả là ```<class 'z3.z3.ModelRef'>```
+, anh và mình thử ép kiểu ```list```  các thứ nhưng sau đó sẽ bị mất dữ liệu ```int ``` 
 
 Ayza giải pháp mình sau đó là copy kết quả sang một trang mới và sử dụng ```Crtl + H``` để xử lí chuỗi , và đây là kết quả: mình có 1 ```dict``` như thế này:
 
