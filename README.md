@@ -119,7 +119,7 @@ s.add(flag[18] == 110)
 ````
 À các bạn dùng ```Ctrl+H``` để chỉnh sửa code cho nhanh nhé, tại đặt tên biến cũng dễ nên không sợ bị trùng:V
 
-Kết thúc add thành công , mình thêm vào vài dòng check() và model() cho chương trình ()
+Kết thúc add thành công , mình thêm vào vài dòng ```check()``` và ```model()``` cho chương trình ()
 
 ```py
 s.check()
