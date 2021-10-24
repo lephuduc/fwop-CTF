@@ -21,7 +21,7 @@ Giải hệ phương trình bật 1 60 biến và submit thôi:))))))
 
 .
 
-Có một thời gian mình tìm hiểu python thì mình biết được trong python có hỗ trợ một module tên là [z3](https://flagbot.ch/lesson5.pdf) chuyên dùng để giải mấy cái này, ay za vừa tìm hiểu xong thì gặp ngay bài lày:)) 
+Có một thời gian mình tìm hiểu python thì mình biết được trong python có hỗ trợ một module tên là [z3](https://flagbot.ch/lesson5.pdf) từ (anh trai kia vjp pro chỉ cho) chuyên dùng để giải mấy cái này, ay za vừa tìm hiểu xong thì gặp ngay bài lày:)) 
 
 Đầu tiên ta cần import module z3
 
