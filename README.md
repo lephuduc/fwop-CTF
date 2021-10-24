@@ -13,7 +13,7 @@ Mình mở file lên thì thấy một đống rối nùi như vậy:)))
 
 ![image](https://user-images.githubusercontent.com/88520787/138580807-f0b5bf4b-a675-45f9-b935-e688efe1b405.png)
 
-Đoạn code biến flag thành chuỗi ASCII rồi kiểm tra một loại các điều kiện :((((((((((((((((((
+Đoạn code này biến flag thành chuỗi ASCII rồi kiểm tra một loại các điều kiện 
 
 ## S0lut1on
 
