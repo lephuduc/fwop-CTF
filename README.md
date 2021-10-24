@@ -1,10 +1,9 @@
 # Reverse Fwop Door - 500 pts  
 ## Có gì lào
- Đề thật ko có hinttttttt 
+ Em bị ám ảnh mấy cái hint và đề này ko thèm cho hint luôn:)) 
  
 ![image](https://user-images.githubusercontent.com/88520787/138580382-ee35e67e-5347-42f3-8213-2dd87f552cee.png)
 
-Không có hint:(((
 ![image](https://user-images.githubusercontent.com/88520787/138580764-1ddf19a9-9a0e-402a-97af-b8af3ffc018e.png)
 
 ## Static analysis
@@ -90,11 +89,10 @@ yeeeeee thành công rồi, giờ mình cần sắp xếp lại các thứ tự
 
 Khoan, dừng khoảng chừng là 2 giây
 
-mình nhận ra đây không phải kiểu dữ liệu list sau khi ```print(type(m))``` thì kết quả là ```<class 'z3.z3.ModelRef'>```
+Mình nhận ra đây không phải kiểu dữ liệu list sau khi ```print(type(m))``` thì kết quả là ```<class 'z3.z3.ModelRef'>```
+, mình thử ép kiểu ```list```  các thứ nhưng sau đó sẽ bị mất dữ liệu ```int ``` 
 
-mình thử ép kiểu ```list```  các thứ nhưng sau đó sẽ bị mất dữ liệu ```int ``` 
-
-Sau đó mình copy kết quả sang một trang mới và sử dụng ```Crtl + H``` để xử lí chuỗi , và đây là kết quả: mình có 1 ```dict``` như thế này:
+Ayza giải pháp mình sau đó là copy kết quả sang một trang mới và sử dụng ```Crtl + H``` để xử lí chuỗi , và đây là kết quả: mình có 1 ```dict``` như thế này:
 
 ```py
 flag = {
@@ -159,7 +157,7 @@ flag = {
  55 : 107,
  2 : 111}
  ```
- à yeee, vấn đề của mình giờ chỉ còn là ```sort``` cái dict này lại theo ```key``` :
+ à yeee, vấn đề của mình giờ chỉ còn là ```sort``` cái dict này lại theo ```key```  và print ra thôi:)))))))))
  
  ```py
  def sort_by_key(dic):
