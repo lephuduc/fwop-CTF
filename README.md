@@ -29,7 +29,7 @@ Có một thời gian mình tìm hiểu python thì mình biết được trong 
 import z3
 ```
 
-Note: nhập ``` pip install z3-slover``` nếu như có lỗi "no module name z3"
+Note: nhập ``` pip install z3-solver``` nếu như có lỗi "no module name z3"
 
 Về ```z3``` ta cần tạo một chuỗi rác có ```len()``` bằng đúng độ dà chuỗi cần tính , trong trường hợp này là 60
 
