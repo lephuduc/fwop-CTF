@@ -138,7 +138,7 @@ Khoan, dừng khoảng chừng là 2 giây
 Anh và Mình nhận ra đây không phải kiểu dữ liệu list sau khi ```print(type(m))``` thì kết quả là ```<class 'z3.z3.ModelRef'>```
 , anh và mình thử ép kiểu ```list```  các thứ nhưng sau đó sẽ bị mất dữ liệu ```int ``` 
 
-Ayza giải pháp mình sau đó là copy kết quả sang một trang mới và sử dụng ```Crtl + H``` để xử lí chuỗi , và đây là kết quả: mình có 1 ```dict``` như thế này:
+Giải pháp mình sau đó là copy kết quả sang một trang mới và sử dụng ```Crtl + H``` để xử lí chuỗi , và đây là kết quả: mình có 1 ```dict``` như thế này:
 
 ```py
 flag = {
@@ -203,7 +203,7 @@ flag = {
  55 : 107,
  2 : 111}
  ```
- à yeee, vấn đề của mình giờ chỉ còn là ```sort``` cái dict này lại theo ```key```  và print ra thôi:)))))))))
+Vấn đề của mình giờ chỉ còn là ```sort``` cái dict này lại theo ```key```  và print ra thôi:)))))))))
  
  ```py
  def sort_by_key(dic):
