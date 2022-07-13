@@ -216,10 +216,6 @@ res  = sort_by_key(flag)
 flag= []
 for k,v in res.items():
     flag.append(chr(v))
-print("".join(flag))
+print("".join(flag)) #fwopCTF{quite_a_long_flag_for_reverse_eng_dont_you_think_so}
 ```
-Và bùmm đây là kết quả:
-
-![image](https://user-images.githubusercontent.com/88520787/138581314-c320fcae-8349-4fc0-827d-2c1a42b9521a.png)
-
 Flag is : `fwopCTF{quite_a_long_flag_for_reverse_eng_dont_you_think_so}`
