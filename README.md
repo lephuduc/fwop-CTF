@@ -219,3 +219,15 @@ for k,v in res.items():
 print("".join(flag)) #fwopCTF{quite_a_long_flag_for_reverse_eng_dont_you_think_so}
 ```
 Flag is : `fwopCTF{quite_a_long_flag_for_reverse_eng_dont_you_think_so}`
+
+## Update
+
+Ngoài cách sắp xếp bằng `dict` ra thì các bạn cũng có thể dùng cách này:
+
+Sau khi lấy được `m = model()` có thể dùng `as_long()` để lấy số ra:
+```py
+for i in range(60):
+    print(chr(m[f[i]].as_long()),end = ")
+ #fwopCTF{quite_a_long_flag_for_reverse_eng_dont_you_think_so}
+ ```
+ 
