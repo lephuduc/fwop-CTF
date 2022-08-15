@@ -1,8 +1,9 @@
 # Reverse Fwop Door - 500 pts  
 ## Có gì lào
+### Wu đầu tiên nên hơi xàm xàm mấy bạn thông cảm ạ:V
  Em bị ám ảnh mấy cái hint và đề này ko thèm cho hint luôn:)) 
  
-![image](https://user-images.githubusercontent.com/88520787/138580382-ee35e67e-5347-42f3-8213-2dd87f552cee.png)
+![image](https://user-images.githubusercontent.com/88520787/184603105-58313ec2-3b52-4fe5-bf90-75e51daf87fc.png)
 
 ![image](https://user-images.githubusercontent.com/88520787/138580764-1ddf19a9-9a0e-402a-97af-b8af3ffc018e.png)
 
